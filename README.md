@@ -7,6 +7,14 @@
     
     grep -i 'ADRIANA' srg.txt -c
     
+    88
+    
     grep -i 'LUCIANA' srg.txt -c
+    
+    55
+    
+ Answer :
+ 
+ ADRIANA's dialogues are more.
 
 
